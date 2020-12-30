@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rrokhit/mern-issues/issues"
   },
-  "homepage": "https://github.com/rrokhit/mern-issues#readme"
+  "homepage": "https://github.com/rrokhit/mern-issues#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
